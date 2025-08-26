@@ -1,0 +1,3 @@
+transformers
+accelerate
+pip install huggingface_hub[hf_xet]
